@@ -22,5 +22,7 @@ There were 11 paid 5-star vine reviews and 4443 unpaid 5-star vine reviews
 
 
 # Summary
-### Analysis: it is not believed that positivity bias plays a maor role in the reviews the Vine program recieves. As seen in the screenshot above, the unpaid reviews had a greater perrcentage of five-star reviews compared to the paid reviews. I find it likely that people who are interested in *critiqueing* new products are likely very *critical* people.  
-### Additional Analysis: using this dataset, I think an interesting analysis to run would take a closer look at the verified purchases column. I think that too much consideration for non-verified purchases may have skewed our numbers. 
+### Analysis
+It is not believed that positivity bias plays a maor role in the reviews the Vine program recieves. As seen in the screenshot above, the unpaid reviews had a greater perrcentage of five-star reviews compared to the paid reviews. I find it likely that people who are interested in *critiqueing* new products are likely very *critical* people.  
+### Additional Analysis
+Using this dataset, I think an interesting analysis to run would take a closer look at the verified purchases column. I think that too much consideration for non-verified purchases may have skewed our numbers. 
